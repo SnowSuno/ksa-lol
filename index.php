@@ -7,5 +7,6 @@
 	<?php
 		echo "Contents here";
 	?>
+	git test
 </body>
 </html>
