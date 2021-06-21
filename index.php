@@ -7,6 +7,6 @@
 	<?php
 		echo "Contents here";
 	?>
-	test test
+	test
 </body>
 </html>
